@@ -15,7 +15,7 @@ This project was an assignment through the MIT xPro Certificate in Coding progra
 
 ## How To Use
 
-If you follow the link [PacMen Factory](http://meganmcgee.github.io/PacMenFactory) you will see an empty screen with two buttons. You can add unlimitted PacMen to the screen by clicking "add". When you click the button "" they will begin to move accross the screen at random. The more you click "", the faster they move.
+If you follow the link [PacMen Factory](http://meganmcgee.github.io/PacMenFactory) you will see an empty screen with two buttons. You can add unlimitted PacMen to the screen by clicking "Add PacMan". When you click the button "Start Game" they will begin to move accross the screen at random. The more you click "Start Game", the faster they move.
 
 ## Future Improvements
 
